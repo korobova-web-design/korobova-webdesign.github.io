@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 @import url('https://fonts.googleapis.com/css?family=Exo+2');
 @import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
 body {    background-color: #fff;
 
 }
@@ -261,7 +262,7 @@ p, body {font-family: 'Exo 2', sans-serif;
 }
 #day, #text {
      fill: rgba(255, 255, 255, 0.4);
-   font-family: 'Marck Script', cursive;
+   font-family: 'Bad Script', cursive;
     stroke: rgb(126, 115, 105);
     stroke-width: 0.8px;
     stroke-linecap: round;
